@@ -1,2 +1,2 @@
-# iOSearch
-This is a B3 DS project and anyone who wants to contribute would need to seek permission
+# iFARM-HL7
+The aim of the project is to handle inbound and outbound HL7 messages.
